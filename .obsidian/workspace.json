@@ -1,0 +1,466 @@
+{
+  "main": {
+    "id": "df6458fd21996194",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f774ebd50b28711",
+        "type": "tabs",
+        "dimension": 36.05595667870036,
+        "children": [
+          {
+            "id": "b2c5380c354375ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cult of Yith.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cult of Yith"
+            }
+          },
+          {
+            "id": "228f0040e7086d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "bd09d552dea0dd23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Usefull Graph Filters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Usefull Graph Filters"
+            }
+          },
+          {
+            "id": "86cce0963528782d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Don Wise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Don Wise"
+            }
+          },
+          {
+            "id": "0bfe614f42fc9dfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Molly Wilson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Molly Wilson"
+            }
+          },
+          {
+            "id": "8cc14b21727332b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPC/Abraham Good.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abraham Good"
+            }
+          },
+          {
+            "id": "970aa6f7b42e7770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Logic"
+            }
+          },
+          {
+            "id": "580f2541c0ed7663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Logic"
+            }
+          },
+          {
+            "id": "9a2fc4d19ee8cf74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Main Characters/Ladina Dayton (Eva).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ladina Dayton (Eva)"
+            }
+          },
+          {
+            "id": "31db891b73cb082b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Main Characters/Ladina Dayton (Eva).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ladina Dayton (Eva)"
+            }
+          },
+          {
+            "id": "65db1b2acdb85ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Main Characters/Emma Strauss(Roan).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emma Strauss(Roan)"
+            }
+          },
+          {
+            "id": "a854b73b6a77d491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "a63c520413c76594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Roman Julia (Julii) Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Roman Julia (Julii) Family"
+            }
+          },
+          {
+            "id": "df2800b0f0f7f4f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Priest Francesco.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Priest Francesco"
+            }
+          },
+          {
+            "id": "acc8b15d37c7f7d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marguerite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marguerite"
+            }
+          },
+          {
+            "id": "b8922024cf4a3751",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Main Characters/Gilbert Le Colson(Luca).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gilbert Le Colson(Luca)"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "94d19675efc16da9",
+        "type": "tabs",
+        "dimension": 63.94404332129964,
+        "children": [
+          {
+            "id": "f22ac96300172634",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "ac7c5d58852caecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Main Characters/Darius Czar(Ryan).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Darius Czar(Ryan)"
+            }
+          },
+          {
+            "id": "d02cb49308f3a88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Main Characters/Henriette Rousseau(Nika).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Henriette Rousseau(Nika)"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afd13cf7268b0f78",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb44217975baf67c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d8e13ae0205873a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "943a6415a71be78a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4a5ed01825e39306",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a932ab0cca8c2d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "23f55b11c1ba8e83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee8e4f3ee1982125",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "84f84c159d433926",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5b4f686ef60950b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3276ebc3aeab2e0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5d8e13ae0205873a",
+  "lastOpenFiles": [
+    "_Main Characters/Ladina Dayton (Eva).md",
+    "_Main Characters/Henriette Rousseau(Nika).md",
+    "DaVinci.md",
+    "Charles Dayton.md",
+    "_Main Characters/Darius Czar(Ryan).md",
+    "Ring of Czar.md",
+    "2026-05-11.md",
+    "Untitled.canvas",
+    "_Main Characters/Gilbert Le Colson(Luca).md",
+    "Time Logic.md",
+    "NPC/Priest Francesco.md",
+    "NPC/Isabella.md",
+    "_Main Characters/Edward Wong(Merlijn).md",
+    "_Main Characters/Emma Strauss(Roan).md",
+    "Sessions/Session 1.md",
+    "_Main Characters/Abel Salvatore(Selin).md",
+    "NPC/Molly Wilson.md",
+    "Usefull Graph Filters.md",
+    "Cult of Yith.md",
+    "Yith.md",
+    "Sessions/Session 2.md",
+    "Sessions/Session 0.md",
+    "Family_Czar/Alev Czar.md",
+    "NPC/Penelope.md",
+    "Chinese Underworld.md",
+    "Roman Julia (Julii) Family.md",
+    "NPC/Abraham Good.md",
+    "NPC",
+    "Sessions",
+    "Endings",
+    "Rituals",
+    "Family_Strauss",
+    "Family_Czar",
+    "Untitled.base",
+    "_Main Characters"
+  ]
+}

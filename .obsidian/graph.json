@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Sessions -path:Endings  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Character  ",
+      "color": {
+        "a": 1,
+        "rgb": 4707626
+      }
+    },
+    {
+      "query": "tag:#Minor_NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 15321739
+      }
+    },
+    {
+      "query": "tag:#Object  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Major_NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 1326561
+      }
+    },
+    {
+      "query": "tag:#Ritual  ",
+      "color": {
+        "a": 1,
+        "rgb": 9244896
+      }
+    },
+    {
+      "query": "tag:#Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#Ending  ",
+      "color": {
+        "a": 1,
+        "rgb": 11523676
+      }
+    },
+    {
+      "query": "tag:#yith",
+      "color": {
+        "a": 1,
+        "rgb": 14771783
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.1,
+  "nodeSizeMultiplier": 1.52916666666667,
+  "lineSizeMultiplier": 2.19270833333333,
+  "collapse-forces": false,
+  "centerStrength": 0.515625,
+  "repelStrength": 15.4166666666667,
+  "linkStrength": 0.166666666666667,
+  "linkDistance": 174,
+  "scale": 0.38230109687699193,
+  "close": false
+}

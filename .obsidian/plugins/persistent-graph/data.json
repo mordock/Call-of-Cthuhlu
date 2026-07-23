@@ -1,0 +1,195 @@
+{
+  "nodePositions": [
+    {
+      "id": "British Museum of Natural History.md",
+      "x": -767.8903198242188,
+      "y": 732.00244140625
+    },
+    {
+      "id": "Chinese Underworld.md",
+      "x": 639.3055419921875,
+      "y": -827.482666015625
+    },
+    {
+      "id": "Crown of the Emperor.md",
+      "x": 25.936630249023438,
+      "y": -344.093994140625
+    },
+    {
+      "id": "Cult of Yith.md",
+      "x": -589.0879516601562,
+      "y": -137.2566375732422
+    },
+    {
+      "id": "Family_Czar/Alev Czar.md",
+      "x": -122.92796325683594,
+      "y": -745.1138916015625
+    },
+    {
+      "id": "Family_Czar/Daphne Czar.md",
+      "x": -773.265380859375,
+      "y": -735.5286865234375
+    },
+    {
+      "id": "Family_Strauss/Julia Strauss.md",
+      "x": -30.150989532470703,
+      "y": 727.7488403320312
+    },
+    {
+      "id": "Family_Strauss/Ulrich Strauss.md",
+      "x": -125.17990112304688,
+      "y": 406.03759765625
+    },
+    {
+      "id": "Jade Pendant.md",
+      "x": 1032.2117919921875,
+      "y": -169.02468872070312
+    },
+    {
+      "id": "NPC/Abraham Good.md",
+      "x": -941.685546875,
+      "y": 435.3688049316406
+    },
+    {
+      "id": "NPC/Don Wise.md",
+      "x": -455.7638244628906,
+      "y": 917.4777221679688
+    },
+    {
+      "id": "NPC/Isabella.md",
+      "x": 637.6405029296875,
+      "y": 122.79962921142578
+    },
+    {
+      "id": "NPC/Jin Peng.md",
+      "x": 539.1814575195312,
+      "y": -490.2995910644531
+    },
+    {
+      "id": "NPC/Jonathan Cooper.md",
+      "x": 365.91925048828125,
+      "y": -135.9778289794922
+    },
+    {
+      "id": "NPC/Marguerite.md",
+      "x": -1001.7847290039062,
+      "y": 54.85468292236328
+    },
+    {
+      "id": "NPC/Molly Wilson.md",
+      "x": -414.5815734863281,
+      "y": -980.031494140625
+    },
+    {
+      "id": "NPC/Penelope.md",
+      "x": -143.03009033203125,
+      "y": 1007.3845825195312
+    },
+    {
+      "id": "NPC/Priest Francesco.md",
+      "x": 3.8852620124816895,
+      "y": -1035.43212890625
+    },
+    {
+      "id": "NPC/Professor Wood.md",
+      "x": 294.7374267578125,
+      "y": -912.9271850585938
+    },
+    {
+      "id": "Prophecy of Czar.md",
+      "x": -967.1719970703125,
+      "y": -322.7358093261719
+    },
+    {
+      "id": "Ring of Czar.md",
+      "x": -668.3594360351562,
+      "y": -447.5008239746094
+    },
+    {
+      "id": "Rituals/Ritual of Blood.md",
+      "x": 207.2637939453125,
+      "y": 440.15069580078125
+    },
+    {
+      "id": "Rituals/Ritual of Sacrifice.md",
+      "x": 256.3398742675781,
+      "y": 1024.13720703125
+    },
+    {
+      "id": "Rituals/Ritual of Strength.md",
+      "x": 141.97738647460938,
+      "y": 72.34680938720703
+    },
+    {
+      "id": "Rituals/Ritual of Time.md",
+      "x": 710.2413940429688,
+      "y": 784.3180541992188
+    },
+    {
+      "id": "Roman Coin.md",
+      "x": -439.873046875,
+      "y": 244.74705505371094
+    },
+    {
+      "id": "Roman Julia (Julii) Family.md",
+      "x": 1021.3721923828125,
+      "y": 205.61575317382812
+    },
+    {
+      "id": "Roman Visions.md",
+      "x": 236.1894989013672,
+      "y": -584.6491088867188
+    },
+    {
+      "id": "Time Logic.md",
+      "x": -723.511474609375,
+      "y": 191.54177856445312
+    },
+    {
+      "id": "Unhuman Writing.md",
+      "x": 835.5543212890625,
+      "y": 467.6285705566406
+    },
+    {
+      "id": "Usefull Graph Filters.md",
+      "x": 904.4738159179688,
+      "y": -542.49072265625
+    },
+    {
+      "id": "Yith.md",
+      "x": -202.2092742919922,
+      "y": 20.53694725036621
+    },
+    {
+      "id": "_Main Characters/Abel Salvatore(Selin).md",
+      "x": 508.4342041015625,
+      "y": 414.4066467285156
+    },
+    {
+      "id": "_Main Characters/Darius Czar(Ryan).md",
+      "x": -387.2972717285156,
+      "y": -603.7325439453125
+    },
+    {
+      "id": "_Main Characters/Edward Wong(Merlijn).md",
+      "x": 729.7169799804688,
+      "y": -202.35067749023438
+    },
+    {
+      "id": "_Main Characters/Emma Strauss(Roan).md",
+      "x": 383.28948974609375,
+      "y": 765.8724975585938
+    },
+    {
+      "id": "_Main Characters/Gilbert Le Colson(Luca).md",
+      "x": -492.36932373046875,
+      "y": 567.158203125
+    },
+    {
+      "id": "_Main Characters/Henriette Rousseau(Nika).md",
+      "x": -255.34002685546875,
+      "y": -281.8495178222656
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

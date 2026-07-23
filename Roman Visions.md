@@ -1,0 +1,1 @@
+During some nights [[Darius Czar(Ryan)]] will have visions of 2 roman figures talking to each other. One of which will be a [[Yith]] but he won't know that yet. He also cannot understand the type of Latin they are speaking. That's where he needs [[Professor Wood]] for. 
