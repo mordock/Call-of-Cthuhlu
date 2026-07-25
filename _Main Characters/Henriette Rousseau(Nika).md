@@ -2,6 +2,8 @@
 tags:
   - Character
 ---
+C:\Users\Max\Desktop\Other\Call of Cthulu\Character Backgrounds\Nika - Henriette Rousseau
+
 ## Insanity Options
 - Left handedness coming back
 - Ablutomania, compulsion for washing oneself
